@@ -47,8 +47,6 @@ data Pocion = Pocion{
     receta       :: [Ingrediente]
 }deriving Show
 
-type Gramos = Int
-
 harry :: Persona
 harry = Persona "Harry Potter" (11, 5, 4)
 
