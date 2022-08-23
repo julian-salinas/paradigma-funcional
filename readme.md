@@ -1,4 +1,4 @@
-# functional-programming
+# paradigma-funcional
 
 Repositorio con práctica del paradigma funcional - Paradigmas de Programación - UTN
 
